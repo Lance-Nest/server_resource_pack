@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+		{"model": "silentgear:block/flax_plant3"},
+		{"model": "silentgear:block/wild_flax_plant1"},
+		{"model": "silentgear:block/wild_flax_plant2"},
+		{"model": "silentgear:block/wild_flax_plant3"},
+		{"model": "silentgear:block/wild_flax_plant4"},
+		{"model": "silentgear:block/wild_flax_plant5"}
+    ]
+  }
+}

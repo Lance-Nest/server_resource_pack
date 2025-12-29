@@ -1,0 +1,29 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/crop",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"crop": "silentgear:block/fluffy_plant0"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 8],
+			"to": [9.5, 5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [9, 11, 6, 16], "texture": "#crop"},
+				"south": {"uv": [6, 11, 9, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [8, 0, 6.5],
+			"to": [8, 5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8.5]},
+			"faces": {
+				"east": {"uv": [9, 11, 6, 16], "texture": "#crop"},
+				"west": {"uv": [6, 11, 9, 16], "texture": "#crop"}
+			}
+		}
+	]
+}
