@@ -1,0 +1,8 @@
+{
+  "name": "gingham_pink",
+  "tagNamespace": "extradelight",
+  "type": "TEXTILE",
+  "loadString": "IGNORE",
+  "loadBlock": "EXISTS",
+  "extensions": []
+}
