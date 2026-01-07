@@ -1,5 +1,5 @@
 {
-  "parent": "compendium:block/furniture/bed/unoccupied/single/foot/blanket/basic",
+  "parent": "compendium:block/furniture/bed/unoccupied/single/foot/blanket/trimmed",
   "textures": {
     "0": "compendium:block/material/textile/gingham_fluorescent/woolly_glazed"
   }
