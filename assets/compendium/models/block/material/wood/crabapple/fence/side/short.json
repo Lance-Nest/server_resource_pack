@@ -1,0 +1,6 @@
+{
+  "parent": "compendium:block/bases/fence/side/short",
+  "textures": {
+    "0": "cluttered:block/crabapple_planks"
+  }
+}
