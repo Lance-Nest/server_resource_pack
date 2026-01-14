@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "compendium:block/material/textile/gingham_navy/basic"
+    "all": "compendium:block/gingham_navy"
   }
 }
