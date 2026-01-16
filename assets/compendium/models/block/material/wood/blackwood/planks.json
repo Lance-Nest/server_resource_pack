@@ -8,7 +8,7 @@
   "base": {
     "parent": "minecraft:block/cube_all",
     "textures": {
-      "all": "abyssal_decor:block/blackwood_planks"
+      "all": "abyssal_decor:block/blackwoodplanks"
     }
   },
   "big_weave": {
