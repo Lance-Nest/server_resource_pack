@@ -1,0 +1,20 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"render_type": "cutout",
+	"textures": {
+		"2": "compendium:block/material/textile/black_wool/llama",
+		"particle": "block/white_wool"
+	},
+	"elements": [
+		{
+			"from": [0, 7, 0],
+			"to": [16, 12.4, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.2, 10, 0]},
+			"faces": {
+				"up": {"uv": [0, 11, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

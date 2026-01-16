@@ -1,0 +1,8 @@
+{
+  "parent": "compendium:block/bases/log_stairs/small_logs_rotated_front_inner",
+  "textures": {
+    "0": "cluttered:block/stripped_fluorescent_maple_log",
+    "1": "cluttered:block/stripped_fluorescent_maple_log",
+    "particle": "cluttered:block/stripped_fluorescent_maple_log"
+  }
+}
