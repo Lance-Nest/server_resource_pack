@@ -1,0 +1,6 @@
+{
+  "parent": "compendium:block/furniture/chair/back/solid",
+  "textures": {
+    "0": "cluttered:block/flowering_willow_planks"
+  }
+}
