@@ -4,5 +4,6 @@
   "type": "TEXTILE",
   "loadString": "IGNORE",
   "loadBlock": "GENERATE",
+  "loadCarpet": "GENERATE",
   "extensions": []
 }
