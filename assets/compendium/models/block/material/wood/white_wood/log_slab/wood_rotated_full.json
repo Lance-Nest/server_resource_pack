@@ -1,0 +1,8 @@
+{
+  "parent": "compendium:block/bases/log_slab/small_logs_rotated_full",
+  "textures": {
+    "0": "abyssal_decor:block/white_wood_log",
+    "1": "abyssal_decor:block/white_wood_log",
+    "particle": "abyssal_decor:block/white_wood_log"
+  }
+}
