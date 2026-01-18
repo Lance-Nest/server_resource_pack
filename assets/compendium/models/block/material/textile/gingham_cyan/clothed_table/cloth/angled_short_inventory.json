@@ -2,7 +2,7 @@
   "parent": "compendium:block/furniture/table/cloth/angled_short",
   "render_type": "minecraft:cutout",
   "textures": {
-    "0": "minecraft:block/gingham_cyan",
+    "0": "extradelight:block/gingham/cyan",
     "1": "compendium:block/material/textile/gingham_cyan/diagonal_half"
   }
 }

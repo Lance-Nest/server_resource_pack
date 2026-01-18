@@ -2,7 +2,7 @@
   "parent": "compendium:block/furniture/table/cloth/angled",
   "render_type": "minecraft:cutout",
   "textures": {
-    "0": "minecraft:block/gingham_orange",
+    "0": "extradelight:block/gingham/orange",
     "1": "compendium:block/material/textile/gingham_orange/diagonal_half"
   }
 }

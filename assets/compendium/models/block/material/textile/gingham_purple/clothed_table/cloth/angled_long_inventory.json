@@ -2,7 +2,7 @@
   "parent": "compendium:block/furniture/table/cloth/angled_long",
   "render_type": "minecraft:cutout",
   "textures": {
-    "0": "minecraft:block/gingham_purple",
+    "0": "extradelight:block/gingham/purple",
     "1": "compendium:block/material/textile/gingham_purple/diagonal_half"
   }
 }
