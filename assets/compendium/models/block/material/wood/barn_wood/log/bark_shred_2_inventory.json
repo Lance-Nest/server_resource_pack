@@ -1,8 +1,8 @@
 {
   "parent": "compendium:block/cube_column_ends",
   "textures": {
-    "bottom": "butchercraft:block/whitewoodstrippedlogtop",
+    "bottom": "butchercraft:block/stripped_barn_wood_log_top",
     "side": "compendium:block/material/wood/barn_wood/logs/bark_shred_2",
-    "top": "butchercraft:block/whitewoodstrippedlogtop"
+    "top": "butchercraft:block/barn_wood_log_top"
   }
 }

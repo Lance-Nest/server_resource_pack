@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column_horizontal",
   "textures": {
-    "end": "cluttered:block/blue_mushroom_stripped_log_top",
-    "side": "cluttered:block/blue_mushroom_stripped_log"
+    "end": "compendium:block/blue_mushroom_stripped_log_top",
+    "side": "compendium:block/blue_mushroom_stripped_log"
   }
 }
