@@ -3,6 +3,7 @@
   "textures": {
     "0": "cluttered:block/poplar_log",
     "1": "cluttered:block/poplar_log",
+    "2": "compendium:block/material/wood/poplar/logs/small_logs",
     "particle": "cluttered:block/poplar_log"
   }
 }

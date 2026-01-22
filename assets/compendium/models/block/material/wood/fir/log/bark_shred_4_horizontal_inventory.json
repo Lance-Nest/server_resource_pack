@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "bloomingnature:block/fir_log_top",
     "side": "compendium:block/material/wood/fir/logs/bark_shred_4",
-    "top": "bloomingnature:block/stripped_fir_log_top"
+    "top": "bloomingnature:block/fir_log_top_stripped"
   }
 }

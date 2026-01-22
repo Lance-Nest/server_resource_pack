@@ -3,6 +3,7 @@
   "textures": {
     "0": "extradelight:block/cinnamon_log",
     "1": "extradelight:block/cinnamon_log",
+    "2": "compendium:block/material/wood/cinnamon/logs/small_logs",
     "particle": "extradelight:block/cinnamon_log"
   }
 }

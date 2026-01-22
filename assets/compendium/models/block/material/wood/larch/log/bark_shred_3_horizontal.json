@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "bloomingnature:block/larch_log_top",
     "side": "compendium:block/material/wood/larch/logs/bark_shred_3",
-    "top": "bloomingnature:block/stripped_larch_log_top"
+    "top": "bloomingnature:block/larch_log_stripped_top"
   }
 }

@@ -3,6 +3,7 @@
   "textures": {
     "0": "extradelight:block/stripped_cinnamon_log",
     "1": "extradelight:block/stripped_cinnamon_log",
+    "2": "compendium:block/material/wood/cinnamon/logs/stripped_small_logs",
     "particle": "extradelight:block/stripped_cinnamon_log"
   }
 }

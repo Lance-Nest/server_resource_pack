@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "bloomingnature:block/chestnut_log_top",
     "side": "compendium:block/material/wood/chestnut/logs/bark_shred_4",
-    "top": "bloomingnature:block/stripped_chestnut_log_top"
+    "top": "bloomingnature:block/chestnut_log_top_stripped"
   }
 }

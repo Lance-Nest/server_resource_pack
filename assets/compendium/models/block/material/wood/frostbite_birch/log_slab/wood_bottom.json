@@ -3,6 +3,7 @@
   "textures": {
     "0": "hazennstuff:block/frostbite_birch_log",
     "1": "hazennstuff:block/frostbite_birch_log",
+    "2": "compendium:block/material/wood/frostbite_birch/logs/small_logs",
     "particle": "hazennstuff:block/frostbite_birch_log"
   }
 }

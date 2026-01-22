@@ -3,6 +3,7 @@
   "textures": {
     "0": "cluttered:block/fluorescent_maple_log",
     "1": "cluttered:block/fluorescent_maple_log",
+    "2": "compendium:small_logs_rotated_side",
     "particle": "cluttered:block/fluorescent_maple_log"
   }
 }

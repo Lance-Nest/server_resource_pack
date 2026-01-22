@@ -3,6 +3,7 @@
   "textures": {
     "0": "ars_nouveau:block/archwood_log",
     "1": "ars_nouveau:block/archwood_log",
+    "2": "compendium:small_logs_rotated_side",
     "particle": "ars_nouveau:block/archwood_log"
   }
 }

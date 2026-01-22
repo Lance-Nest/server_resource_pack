@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "compendium:block/material/textile/gingham_persimmon/carpet"
+      "model": "compendium:block/material/textile/gingham_persimmon/gingham_persimmon_carpet"
     }
   }
 }

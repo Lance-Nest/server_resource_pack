@@ -3,6 +3,7 @@
   "textures": {
     "0": "bloomingnature:block/stripped_cactus_log",
     "1": "bloomingnature:block/stripped_cactus_log",
+    "2": "compendium:block/material/wood/cactus/logs/stripped_small_logs",
     "particle": "bloomingnature:block/stripped_cactus_log"
   }
 }

@@ -3,6 +3,7 @@
   "textures": {
     "0": "enchanted:block/stripped_alder_log",
     "1": "enchanted:block/stripped_alder_log",
+    "2": "compendium:small_logs_rotated_side",
     "particle": "enchanted:block/stripped_alder_log"
   }
 }

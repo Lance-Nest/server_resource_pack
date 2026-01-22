@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "compendium:block/material/textile/gingham_honey/block"
+      "model": "compendium:block/material/textile/gingham_honey/gingham_honey_block"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "compendium:block/cube_column_ends",
   "textures": {
-    "bottom": "bloomingnature:block/stripped_aspen_log_top",
+    "bottom": "bloomingnature:block/aspen_log_top_stripped",
     "side": "compendium:block/material/wood/aspen/logs/stripped_bark_shred_3",
     "top": "bloomingnature:block/aspen_log_top"
   }

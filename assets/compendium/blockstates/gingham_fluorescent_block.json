@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "compendium:block/material/textile/gingham_fluorescent/block"
+      "model": "compendium:block/material/textile/gingham_fluorescent/gingham_fluorescent_block"
     }
   }
 }

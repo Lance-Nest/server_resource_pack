@@ -3,6 +3,7 @@
   "textures": {
     "0": "cluttered:block/blue_mushroom_log",
     "1": "cluttered:block/blue_mushroom_log",
+    "2": "compendium:small_logs_rotated_side",
     "particle": "cluttered:block/blue_mushroom_log"
   }
 }

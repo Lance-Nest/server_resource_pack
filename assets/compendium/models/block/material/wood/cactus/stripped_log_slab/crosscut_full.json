@@ -2,7 +2,7 @@
   "parent": "compendium:block/bases/log_slab/crosscut_full",
   "textures": {
     "0": "bloomingnature:block/stripped_cactus_log",
-    "1": "bloomingnature:block/stripped_cactus_log_top",
+    "1": "compendium:block/stripped_cactus_log_top",
     "particle": "bloomingnature:block/stripped_cactus_log"
   }
 }

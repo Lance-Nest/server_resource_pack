@@ -3,6 +3,7 @@
   "textures": {
     "0": "cataclysm:block/chorus_log",
     "1": "cataclysm:block/chorus_log",
+    "2": "compendium:small_logs_rotated_front",
     "particle": "cataclysm:block/chorus_log"
   }
 }

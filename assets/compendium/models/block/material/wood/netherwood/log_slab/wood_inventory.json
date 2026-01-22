@@ -3,6 +3,7 @@
   "textures": {
     "0": "silentgear:block/netherwood_log",
     "1": "silentgear:block/netherwood_log",
+    "2": "compendium:block/material/wood/netherwood/logs/small_logs",
     "particle": "silentgear:block/netherwood_log"
   }
 }

@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "dawnoftimebuilder:block/charred_spruce_log_top",
     "side": "compendium:block/material/wood/charred_spruce/logs/stripped_bark_shred_2",
-    "top": "dawnoftimebuilder:block/stripped_charred_spruce_log_top"
+    "top": "dawnoftimebuilder:block/charred_spruce_log_stripped_top"
   }
 }

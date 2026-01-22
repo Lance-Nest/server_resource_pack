@@ -1,8 +1,9 @@
 {
   "parent": "compendium:block/bases/log_stairs/small_logs_rotated_side_outer",
   "textures": {
-    "0": "bloomingnature:block/cactus_log",
-    "1": "bloomingnature:block/cactus_log",
-    "particle": "bloomingnature:block/cactus_log"
+    "0": "compendium:block/cactus_log",
+    "1": "compendium:block/cactus_log",
+    "2": "compendium:small_logs_rotated_side",
+    "particle": "compendium:block/cactus_log"
   }
 }

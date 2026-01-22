@@ -2,6 +2,6 @@
   "parent": "compendium:extra/split_log_stage0",
   "textures": {
     "0": "cataclysm:block/chorus_log",
-    "1": "cataclysm:block/chorus_log_top"
+    "1": "compendium:block/material/wood/chorus/logs/log_top"
   }
 }

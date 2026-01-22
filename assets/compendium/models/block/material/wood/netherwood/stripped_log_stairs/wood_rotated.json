@@ -3,6 +3,7 @@
   "textures": {
     "0": "silentgear:block/stripped_netherwood_log",
     "1": "silentgear:block/stripped_netherwood_log",
+    "2": "compendium:small_logs_rotated_front",
     "particle": "silentgear:block/stripped_netherwood_log"
   }
 }

@@ -3,6 +3,7 @@
   "textures": {
     "0": "cluttered:block/willow_log",
     "1": "cluttered:block/willow_log",
+    "2": "compendium:block/material/wood/willow/logs/small_logs",
     "particle": "cluttered:block/willow_log"
   }
 }

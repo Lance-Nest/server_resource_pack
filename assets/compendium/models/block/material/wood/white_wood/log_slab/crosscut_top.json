@@ -2,7 +2,7 @@
   "parent": "compendium:block/bases/log_slab/crosscut_top",
   "textures": {
     "0": "abyssal_decor:block/white_wood_log",
-    "1": "abyssal_decor:block/white_wood_log_top",
+    "1": "abyssal_decor:block/whitewoodstrippedlogtop",
     "particle": "abyssal_decor:block/white_wood_log"
   }
 }

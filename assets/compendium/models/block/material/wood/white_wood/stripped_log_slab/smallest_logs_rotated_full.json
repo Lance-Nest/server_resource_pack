@@ -1,8 +1,8 @@
 {
   "parent": "compendium:block/bases/log_slab/smallest_logs_rotated_full",
   "textures": {
-    "0": "abyssal_decor:block/stripped_white_wood_log",
+    "0": "abyssal_decor:block/whitewoodstrippedlog",
     "1": "compendium:block/material/wood/white_wood/logs/stripped_extra_caps",
-    "particle": "abyssal_decor:block/stripped_white_wood_log"
+    "particle": "abyssal_decor:block/whitewoodstrippedlog"
   }
 }

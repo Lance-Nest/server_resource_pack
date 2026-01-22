@@ -3,6 +3,7 @@
   "textures": {
     "0": "enchanted:block/stripped_rowan_log",
     "1": "enchanted:block/stripped_rowan_log",
+    "2": "compendium:block/material/wood/rowan/logs/stripped_small_logs",
     "particle": "enchanted:block/stripped_rowan_log"
   }
 }

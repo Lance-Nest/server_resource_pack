@@ -1,8 +1,9 @@
 {
   "parent": "compendium:block/bases/log_stairs/small_logs_rotated_side",
   "textures": {
-    "0": "bloomingnature:block/stripped_larch_log",
-    "1": "bloomingnature:block/stripped_larch_log",
-    "particle": "bloomingnature:block/stripped_larch_log"
+    "0": "bloomingnature:block/larch_log_stripped",
+    "1": "bloomingnature:block/larch_log_stripped",
+    "2": "compendium:small_logs_rotated_side",
+    "particle": "bloomingnature:block/larch_log_stripped"
   }
 }

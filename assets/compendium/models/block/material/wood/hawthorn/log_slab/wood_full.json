@@ -3,6 +3,7 @@
   "textures": {
     "0": "enchanted:block/hawthorn_log",
     "1": "enchanted:block/hawthorn_log",
+    "2": "compendium:block/material/wood/hawthorn/logs/small_logs",
     "particle": "enchanted:block/hawthorn_log"
   }
 }

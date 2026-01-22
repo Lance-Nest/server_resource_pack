@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "compendium:block/material/textile/gingham_amber/block"
+      "model": "compendium:block/material/textile/gingham_amber/gingham_amber_block"
     }
   }
 }

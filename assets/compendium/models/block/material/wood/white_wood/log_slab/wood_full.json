@@ -3,6 +3,7 @@
   "textures": {
     "0": "abyssal_decor:block/white_wood_log",
     "1": "abyssal_decor:block/white_wood_log",
+    "2": "compendium:block/material/wood/white_wood/logs/small_logs",
     "particle": "abyssal_decor:block/white_wood_log"
   }
 }

@@ -3,6 +3,7 @@
   "textures": {
     "0": "enchanted:block/rowan_log",
     "1": "enchanted:block/rowan_log",
+    "2": "compendium:small_logs_rotated_side",
     "particle": "enchanted:block/rowan_log"
   }
 }

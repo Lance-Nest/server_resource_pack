@@ -1,9 +1,9 @@
 {
   "parent": "compendium:block/bases/log_stairs/split_log_rotated_front",
   "textures": {
-    "0": "abyssal_decor:block/stripped_white_wood_log",
-    "1": "abyssal_decor:block/stripped_white_wood_log_top",
+    "0": "abyssal_decor:block/whitewoodstrippedlog",
+    "1": "abyssal_decor:block/whitewoodstrippedlogtop",
     "2": "compendium:block/material/wood/white_wood/logs/stripped_log_split_side",
-    "particle": "abyssal_decor:block/stripped_white_wood_log"
+    "particle": "abyssal_decor:block/whitewoodstrippedlog"
   }
 }

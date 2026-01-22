@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "bloomingnature:block/aspen_log_top",
     "side": "compendium:block/material/wood/aspen/logs/bark_shred_4",
-    "top": "bloomingnature:block/stripped_aspen_log_top"
+    "top": "bloomingnature:block/aspen_log_top_stripped"
   }
 }

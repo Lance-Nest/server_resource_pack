@@ -3,6 +3,7 @@
   "textures": {
     "0": "butchercraft:block/stripped_barn_wood_log",
     "1": "butchercraft:block/stripped_barn_wood_log",
+    "2": "compendium:small_logs_rotated_front",
     "particle": "butchercraft:block/stripped_barn_wood_log"
   }
 }
