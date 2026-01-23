@@ -1,6 +1,6 @@
 {
   "parent": "compendium:block/furniture/chair/back/flat_extra",
   "textures": {
-    "0": "abyssal_decor:block/cinnamon_planks"
+    "0": "abyssal_decor:block/cinnamonplanks"
   }
 }
