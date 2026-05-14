@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_stairs/small_logs_rotated_side",
-  "textures": {
-    "0": "abyssal_decor:block/strippedcinnamonlogside",
-    "1": "abyssal_decor:block/strippedcinnamonlogside",
-    "2": "compendium:small_logs_rotated_side",
-    "particle": "abyssal_decor:block/strippedcinnamonlogside"
-  }
-}

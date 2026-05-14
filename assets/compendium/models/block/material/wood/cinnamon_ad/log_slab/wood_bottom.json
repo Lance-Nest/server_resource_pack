@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_bottom",
-  "textures": {
-    "0": "abyssal_decor:block/cinnamonlogside",
-    "1": "abyssal_decor:block/cinnamonlogside",
-    "2": "compendium:block/material/wood/cinnamon_ad/logs/small_logs",
-    "particle": "abyssal_decor:block/cinnamonlogside"
-  }
-}

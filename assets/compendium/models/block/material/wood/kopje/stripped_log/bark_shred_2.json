@@ -1,8 +1,0 @@
-{
-  "parent": "compendium:block/cube_column_ends",
-  "textures": {
-    "bottom": "koopascritters:block/kopjelogtop",
-    "side": "compendium:block/material/wood/kopje/logs/stripped_bark_shred_2",
-    "top": "koopascritters:block/kopjelogstrippedtop"
-  }
-}

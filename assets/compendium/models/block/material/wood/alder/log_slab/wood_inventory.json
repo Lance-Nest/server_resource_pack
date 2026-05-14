@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_bottom",
-  "textures": {
-    "0": "enchanted:block/alder_log",
-    "1": "enchanted:block/alder_log",
-    "2": "compendium:block/material/wood/alder/logs/small_logs",
-    "particle": "enchanted:block/alder_log"
-  }
-}

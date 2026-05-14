@@ -1,8 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/crosscut_full",
-  "textures": {
-    "0": "compendium:block/cactus_log",
-    "1": "compendium:block/cactus_log_top",
-    "particle": "compendium:block/cactus_log"
-  }
-}

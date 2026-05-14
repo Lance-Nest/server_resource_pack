@@ -1,8 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/crosscut_bottom",
-  "textures": {
-    "0": "abyssal_decor:block/cinnamonlogside",
-    "1": "abyssal_decor:block/cinnamonlogtop",
-    "particle": "abyssal_decor:block/cinnamonlogside"
-  }
-}

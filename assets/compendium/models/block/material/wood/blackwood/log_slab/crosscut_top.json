@@ -1,8 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/crosscut_top",
-  "textures": {
-    "0": "abyssal_decor:block/moldylogside",
-    "1": "abyssal_decor:block/moldylogtop",
-    "particle": "abyssal_decor:block/moldylogside"
-  }
-}

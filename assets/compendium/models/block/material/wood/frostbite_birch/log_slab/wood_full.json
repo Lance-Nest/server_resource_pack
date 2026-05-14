@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_full",
-  "textures": {
-    "0": "hazennstuff:block/frostbite_birch_log",
-    "1": "hazennstuff:block/frostbite_birch_log",
-    "2": "compendium:block/material/wood/frostbite_birch/logs/small_logs",
-    "particle": "hazennstuff:block/frostbite_birch_log"
-  }
-}

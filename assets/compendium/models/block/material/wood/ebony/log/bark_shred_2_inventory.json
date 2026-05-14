@@ -1,8 +1,0 @@
-{
-  "parent": "compendium:block/cube_column_ends",
-  "textures": {
-    "bottom": "bloomingnature:block/ebony_log_top_stripped",
-    "side": "compendium:block/material/wood/ebony/logs/bark_shred_2",
-    "top": "bloomingnature:block/ebony_log_top"
-  }
-}

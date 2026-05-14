@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_full",
-  "textures": {
-    "0": "cataclysm:block/chorus_stem",
-    "1": "cataclysm:block/chorus_stem",
-    "2": "compendium:block/material/wood/chorus/logs/stripped_small_logs",
-    "particle": "cataclysm:block/chorus_stem"
-  }
-}

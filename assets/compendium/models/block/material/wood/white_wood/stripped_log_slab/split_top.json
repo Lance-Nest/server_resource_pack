@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/split_top",
-  "textures": {
-    "0": "abyssal_decor:block/whitewoodstrippedlog",
-    "1": "abyssal_decor:block/whitewoodstrippedlogtop",
-    "2": "compendium:block/material/wood/white_wood/logs/stripped_log_split_side",
-    "particle": "abyssal_decor:block/whitewoodstrippedlog"
-  }
-}
