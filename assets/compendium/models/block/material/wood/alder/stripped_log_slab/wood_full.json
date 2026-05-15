@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_full",
-  "textures": {
-    "0": "enchanted:block/stripped_alder_log",
-    "1": "enchanted:block/stripped_alder_log",
-    "2": "compendium:block/material/wood/alder/logs/stripped_small_logs",
-    "particle": "enchanted:block/stripped_alder_log"
-  }
-}

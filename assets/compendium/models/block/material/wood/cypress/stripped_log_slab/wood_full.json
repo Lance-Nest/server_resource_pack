@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_full",
-  "textures": {
-    "0": "bloomingnature:block/cypress_log_stripped_side",
-    "1": "bloomingnature:block/cypress_log_stripped_side",
-    "2": "compendium:block/material/wood/cypress/logs/stripped_small_logs",
-    "particle": "bloomingnature:block/cypress_log_stripped_side"
-  }
-}

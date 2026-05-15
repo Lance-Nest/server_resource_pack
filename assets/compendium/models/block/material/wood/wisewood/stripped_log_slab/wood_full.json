@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_full",
-  "textures": {
-    "0": "hazennstuff:block/stripped_wisewood_log_side",
-    "1": "hazennstuff:block/stripped_wisewood_log_side",
-    "2": "compendium:block/material/wood/wisewood/logs/stripped_small_logs",
-    "particle": "hazennstuff:block/stripped_wisewood_log_side"
-  }
-}

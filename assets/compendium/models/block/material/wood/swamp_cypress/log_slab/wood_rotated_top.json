@@ -1,8 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_rotated_top",
-  "textures": {
-    "0": "bloomingnature:block/swamp_cypress_log_side",
-    "1": "bloomingnature:block/swamp_cypress_log_side",
-    "particle": "bloomingnature:block/swamp_cypress_log_side"
-  }
-}

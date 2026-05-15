@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_full",
-  "textures": {
-    "0": "bloomingnature:block/larch_log_side",
-    "1": "bloomingnature:block/larch_log_side",
-    "2": "compendium:block/material/wood/larch/logs/small_logs",
-    "particle": "bloomingnature:block/larch_log_side"
-  }
-}

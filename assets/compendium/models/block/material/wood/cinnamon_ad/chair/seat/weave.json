@@ -1,7 +1,0 @@
-{
-  "parent": "compendium:block/furniture/chair/seat/weave",
-  "textures": {
-    "0": "abyssal_decor:block/cinnamonplanks",
-    "1": "compendium:block/material/wood/cinnamon_ad/weave"
-  }
-}

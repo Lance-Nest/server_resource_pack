@@ -1,9 +1,0 @@
-{
-  "parent": "compendium:block/bases/log_slab/small_logs_top",
-  "textures": {
-    "0": "bloomingnature:block/baobab_log_side_stripped",
-    "1": "bloomingnature:block/baobab_log_side_stripped",
-    "2": "compendium:block/material/wood/baobab/logs/stripped_small_logs",
-    "particle": "bloomingnature:block/baobab_log_side_stripped"
-  }
-}
