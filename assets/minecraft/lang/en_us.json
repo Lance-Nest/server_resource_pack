@@ -1,0 +1,15 @@
+{
+  "entity.minecraft.villager.botanist": "Botanist",
+  "entity.minecraft.villager.chef": "Chef",
+  "entity.minecraft.villager.cook": "Cook",
+  "entity.minecraft.villager.dustydecorations:antique_dealer": "Antique Dealer",
+  "entity.minecraft.villager.jeweler": "Jeweler",
+  "entity.minecraft.villager.the_great_outdoors.park_ranger": "Park Ranger",
+  "entity.mysticsbiomes.butterfly": "Butterfly",
+  "fluid_type.dustydecorations.bucket_o_coins": "Bucket o' Coins",
+  "item.hazennstuff.angel_wings": "Angel Wings",
+  "item.hazennstuff.fallen_angel_wings": "Fallen Angel Wings",
+  "spell.hazennstuff.ionic_slash": "Iconic Slash",
+  "spell.hazennstuff.parry": "Parry",
+  "spell.hazennstuff.reign_of_tyros": "Reign of Tyros"
+}
