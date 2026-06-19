@@ -1,4 +1,11 @@
 {
+  "block.adorablehamsterpets.cucumber_crop": "Cucumbers",
+  "block.adorablehamsterpets.green_beans_crop": "Green Beans",
+  "block.ramadandelight.parsley_crop": "Parsley",
+  "block.veggiesdelight.broccoli_crop": "Broccoli",
+  "block.veggiesdelight.cauliflower_crop": "Cauliflower",
+  "block.veggiesdelight.turnip_crop": "Turnips",
+  "block.veggiesdelight.zucchini_crop": "Zucchini",
   "entity.minecraft.villager.botanist": "Botanist",
   "entity.minecraft.villager.chef": "Chef",
   "entity.minecraft.villager.cook": "Cook",
